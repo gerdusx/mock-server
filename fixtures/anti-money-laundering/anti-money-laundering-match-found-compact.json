@@ -1,0 +1,550 @@
+{
+  "Status": "Success",
+  "ResponseInfo": {
+    "ApplicationId": 383046767,
+    "SolutionSetInstanceId": "b0a508c9-08e1-42ab-a9ad-ec968ff9bb97",
+    "CurrentQueue": "TSO_ServiceInput"
+  },
+  "Fields": {
+    "Applicants_IO": {
+      "Applicant": [
+        {
+          "Attributes": {
+            "DSWatchlistVerification": {
+              "NmResults": [
+                {
+                  "productId": "NM",
+                  "score": 1,
+                  "sourceId": 10285,
+                  "category": "ALLNM",
+                  "resultId": 18,
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "subjectAge": null,
+                  "subjectLocation": null,
+                  "text": "Zille said she wants to focus on her campaign to become the mayor of Johannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in",
+                  "url": "https://www.citizen.co.za/news/south-africa/politics/blue-machine-works-zille-says-she-will-not-come-back-again/",
+                  "articleTitle": "\u2018The blue machine works\u2019: Zille says she will not come back again [VIDEO]",
+                  "articleDate": "2026-04-12T00:00:00",
+                  "highlights": [
+                    "...ip structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in the DA, with some suggesting that she i...",
+                    "...ohannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elect...",
+                    "...rg (COJ) Democratic Alliance (DA) Editor\u2019s Choice Helen Zill..."
+                  ],
+                  "concepts": [
+                    "accused"
+                  ],
+                  "languages": []
+                },
+                {
+                  "productId": "NM",
+                  "score": 1,
+                  "sourceId": 10285,
+                  "category": "ALLNM",
+                  "resultId": 19,
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "subjectAge": null,
+                  "subjectLocation": null,
+                  "text": "Zille said she wants to focus on her campaign to become the mayor of Johannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in",
+                  "url": "https://www.citizen.co.za/news/south-africa/politics/blue-machine-works-zille-says-she-will-not-come-back-again/",
+                  "articleTitle": "\u2018The blue machine works\u2019: Zille says she will not come back again [VIDEO]",
+                  "articleDate": "2026-04-12T00:00:00",
+                  "highlights": [
+                    "...ip structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in the DA, with some suggesting that she i...",
+                    "...ohannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elect...",
+                    "...rg (COJ) Democratic Alliance (DA) Editor\u2019s Choice Helen Zill..."
+                  ],
+                  "concepts": [
+                    "accused"
+                  ],
+                  "languages": []
+                },
+                {
+                  "productId": "NM",
+                  "score": 1,
+                  "sourceId": 10285,
+                  "category": "ALLNM",
+                  "resultId": 20,
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "subjectAge": null,
+                  "subjectLocation": null,
+                  "text": "Zille said she wants to focus on her campaign to become the mayor of Johannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in",
+                  "url": "https://www.citizen.co.za/news/south-africa/politics/blue-machine-works-zille-says-she-will-not-come-back-again/",
+                  "articleTitle": "\u2018The blue machine works\u2019: Zille says she will not come back again [VIDEO]",
+                  "articleDate": "2026-04-12T00:00:00",
+                  "highlights": [
+                    "...ip structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in the DA, with some suggesting that she i...",
+                    "...ohannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elect...",
+                    "...rg (COJ) Democratic Alliance (DA) Editor\u2019s Choice Helen Zill..."
+                  ],
+                  "concepts": [
+                    "accused"
+                  ],
+                  "languages": []
+                },
+                {
+                  "productId": "NM",
+                  "score": 1,
+                  "sourceId": 10285,
+                  "category": "ALLNM",
+                  "resultId": 21,
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "subjectAge": null,
+                  "subjectLocation": null,
+                  "text": "Zille said she wants to focus on her campaign to become the mayor of Johannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in",
+                  "url": "https://www.citizen.co.za/news/south-africa/politics/blue-machine-works-zille-says-she-will-not-come-back-again/",
+                  "articleTitle": "\u2018The blue machine works\u2019: Zille says she will not come back again [VIDEO]",
+                  "articleDate": "2026-04-12T00:00:00",
+                  "highlights": [
+                    "...ip structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in the DA, with some suggesting that she i...",
+                    "...ohannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elect...",
+                    "...rg (COJ) Democratic Alliance (DA) Editor\u2019s Choice Helen Zill..."
+                  ],
+                  "concepts": [
+                    "accused"
+                  ],
+                  "languages": []
+                },
+                {
+                  "productId": "NM",
+                  "score": 1,
+                  "sourceId": 10285,
+                  "category": "ALLNM",
+                  "resultId": 22,
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "subjectAge": null,
+                  "subjectLocation": null,
+                  "text": "Zille said she wants to focus on her campaign to become the mayor of Johannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in",
+                  "url": "https://www.citizen.co.za/news/south-africa/politics/blue-machine-works-zille-says-she-will-not-come-back-again/",
+                  "articleTitle": "\u2018The blue machine works\u2019: Zille says she will not come back again [VIDEO]",
+                  "articleDate": "2026-04-12T00:00:00",
+                  "highlights": [
+                    "...ip structure after this year\u2019s elective congress. Zille has been accused of clinging to the levers of power in the DA, with some suggesting that she i...",
+                    "...ohannesburg Former DA federal council chairperson Helen Zille said she will not return to the party\u2019s top leadership structure after this year\u2019s elect...",
+                    "...rg (COJ) Democratic Alliance (DA) Editor\u2019s Choice Helen Zill..."
+                  ],
+                  "concepts": [
+                    "accused"
+                  ],
+                  "languages": []
+                }
+              ],
+              "WlsResults": [
+                {
+                  "productId": "WLS",
+                  "score": 1,
+                  "sourceId": 17146,
+                  "category": "AMLKC,FINAN,GLCRM,WCORR",
+                  "resultId": 1,
+                  "address": null,
+                  "addresses": null,
+                  "age": null,
+                  "aliasList": null,
+                  "caution": null,
+                  "dateOfBirth": null,
+                  "datesOfBirthNormalized": null,
+                  "birthYears": null,
+                  "entityName": null,
+                  "eyeColor": null,
+                  "gender": null,
+                  "hairColor": null,
+                  "height": null,
+                  "highlights": [
+                    " police, according to Premier \u003Cem\u003EHelen\u003C/em\u003E Zille\u0027s spokesperson Zak Mbhele. \u0022The work of the FIU has been"
+                  ],
+                  "identifier": null,
+                  "individualName": null,
+                  "nationality": null,
+                  "placeOfBirth": null,
+                  "program": null,
+                  "race": null,
+                  "remarks": "Published Date: 16 Mar 2012, 12:18",
+                  "sourceAgencyAcronym": "",
+                  "sourceAgencyName": "Corruption Watch",
+                  "sourceListType": "News",
+                  "sourceParentAgency": "",
+                  "sourceRegion": "South Africa",
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "text": "Special unit leads to 16 arrests in Western Cape | Getting your Trinity Audio player ready... By Chantelle Benjamin 16 March 2012 \u2013 The Western Cape government\u0027s efforts to combat fraud and corruption are yielding results, with the work of its specialised unit leading to the arrest of 16 people,",
+                  "url": "https://www.corruptionwatch.org.za/special-unit-leads-to-16-arrests-in-western-cape/",
+                  "weight": null,
+                  "wlsResultType": null,
+                  "languages": []
+                },
+                {
+                  "productId": "WLS",
+                  "score": 1,
+                  "sourceId": 17146,
+                  "category": "AMLKC,FINAN,GLCRM,WCORR",
+                  "resultId": 2,
+                  "address": null,
+                  "addresses": null,
+                  "age": null,
+                  "aliasList": null,
+                  "caution": null,
+                  "dateOfBirth": null,
+                  "datesOfBirthNormalized": null,
+                  "birthYears": null,
+                  "entityName": null,
+                  "eyeColor": null,
+                  "gender": null,
+                  "hairColor": null,
+                  "height": null,
+                  "highlights": [
+                    ", there clearly has been. Part of her wish has been realised: Premier \u003Cem\u003EHelen\u003C/em\u003E \u003Cem\u003EZille\u003C/em\u003E yesterday"
+                  ],
+                  "identifier": null,
+                  "individualName": null,
+                  "nationality": null,
+                  "placeOfBirth": null,
+                  "program": null,
+                  "race": null,
+                  "remarks": "Published Date: 23 Aug 2012, 9:22",
+                  "sourceAgencyAcronym": "",
+                  "sourceAgencyName": "Corruption Watch",
+                  "sourceListType": "News",
+                  "sourceParentAgency": "",
+                  "sourceRegion": "South Africa",
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "text": "W Cape cops play robbers | Getting your Trinity Audio player ready... By Lorraine Louw There is an old saying that you should set a thief to catch a thief. The thing about old sayings is that they often have their origins in truth. Certainly, independent consultant criminologist Liza Grobler",
+                  "url": "https://www.corruptionwatch.org.za/w-cape-cops-play-robbers/",
+                  "weight": null,
+                  "wlsResultType": null,
+                  "languages": []
+                },
+                {
+                  "productId": "WLS",
+                  "score": 1,
+                  "sourceId": 17146,
+                  "category": "AMLKC,FINAN,GLCRM,WCORR",
+                  "resultId": 3,
+                  "address": null,
+                  "addresses": null,
+                  "age": null,
+                  "aliasList": null,
+                  "caution": null,
+                  "dateOfBirth": null,
+                  "datesOfBirthNormalized": null,
+                  "birthYears": null,
+                  "entityName": null,
+                  "eyeColor": null,
+                  "gender": null,
+                  "hairColor": null,
+                  "height": null,
+                  "highlights": [
+                    " Louw Work has started in earnest for the commission of inquiry announced by Premier \u003Cem\u003EHelen\u003C/em\u003E \u003Cem\u003EZille\u003C/em\u003E into"
+                  ],
+                  "identifier": null,
+                  "individualName": null,
+                  "nationality": null,
+                  "placeOfBirth": null,
+                  "program": null,
+                  "race": null,
+                  "remarks": "Published Date: 13 Sep 2012, 10:48",
+                  "sourceAgencyAcronym": "",
+                  "sourceAgencyName": "Corruption Watch",
+                  "sourceListType": "News",
+                  "sourceParentAgency": "",
+                  "sourceRegion": "South Africa",
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "text": "Khayelitsha commission to lift lid on rot | Getting your Trinity Audio player ready... By Lorraine Louw Work has started in earnest for the commission of inquiry announced by Premier Helen Zille into the breakdown in relations between the police and residents in Khayelitsha, in Cape Town. The commission opened",
+                  "url": "https://www.corruptionwatch.org.za/khayelitsha-commission-to-lift-lid-on-rot/",
+                  "weight": null,
+                  "wlsResultType": null,
+                  "languages": []
+                },
+                {
+                  "productId": "WLS",
+                  "score": 1,
+                  "sourceId": 17146,
+                  "category": "AMLKC,FINAN,GLCRM,WCORR",
+                  "resultId": 4,
+                  "address": null,
+                  "addresses": null,
+                  "age": null,
+                  "aliasList": null,
+                  "caution": null,
+                  "dateOfBirth": null,
+                  "datesOfBirthNormalized": null,
+                  "birthYears": null,
+                  "entityName": null,
+                  "eyeColor": null,
+                  "gender": null,
+                  "hairColor": null,
+                  "height": null,
+                  "highlights": [
+                    ", opposition leader \u003Cem\u003EHelen\u003C/em\u003E \u003Cem\u003EZille\u003C/em\u003E said she wanted the president to force eThekwini municipality and the"
+                  ],
+                  "identifier": null,
+                  "individualName": null,
+                  "nationality": null,
+                  "placeOfBirth": null,
+                  "program": null,
+                  "race": null,
+                  "remarks": "Published Date: 25 Oct 2012, 12:42",
+                  "sourceAgencyAcronym": "",
+                  "sourceAgencyName": "Corruption Watch",
+                  "sourceListType": "News",
+                  "sourceParentAgency": "",
+                  "sourceRegion": "South Africa",
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "text": "More calls for Manase report release | Getting your Trinity Audio player ready... The Manase report into dodgy dealings by officials and politicians in eThekwini reared its ugly head again this week, threatening to add a few more bumps to President Jacob Zuma\u2019s road to Mangaung. A summarised version of",
+                  "url": "https://www.corruptionwatch.org.za/more-calls-for-manase-report-release/",
+                  "weight": null,
+                  "wlsResultType": null,
+                  "languages": []
+                },
+                {
+                  "productId": "WLS",
+                  "score": 1,
+                  "sourceId": 17146,
+                  "category": "AMLKC,FINAN,GLCRM,WCORR",
+                  "resultId": 5,
+                  "address": null,
+                  "addresses": null,
+                  "age": null,
+                  "aliasList": null,
+                  "caution": null,
+                  "dateOfBirth": null,
+                  "datesOfBirthNormalized": null,
+                  "birthYears": null,
+                  "entityName": null,
+                  "eyeColor": null,
+                  "gender": null,
+                  "hairColor": null,
+                  "height": null,
+                  "highlights": [
+                    " sitting of the inquiry on 29 October. It was set up by Premier \u003Cem\u003EHelen\u003C/em\u003E \u003Cem\u003EZille\u003C/em\u003E after intense lobbying"
+                  ],
+                  "identifier": null,
+                  "individualName": null,
+                  "nationality": null,
+                  "placeOfBirth": null,
+                  "program": null,
+                  "race": null,
+                  "remarks": "Published Date: 06 Nov 2012, 12:18",
+                  "sourceAgencyAcronym": "",
+                  "sourceAgencyName": "Corruption Watch",
+                  "sourceListType": "News",
+                  "sourceParentAgency": "",
+                  "sourceRegion": "South Africa",
+                  "sourceCountry": "ZAF",
+                  "subjectMatched": "Helen Zille",
+                  "text": "Khayelitsha hearings to start | Getting your Trinity Audio player ready... By Lorraine Louw The Commission of Inquiry into policing in Khayelitsha published its hearing plan yesterday, despite a call from the national minister of police to halt proceedings. It said that during the first week of hearings, from 12",
+                  "url": "https://www.corruptionwatch.org.za/khayelitsha-hearings-to-start/",
+                  "weight": null,
+                  "wlsResultType": null,
+                  "languages": []
+                }
+              ],
+              "PepResults": [
+                {
+                  "productId": "PEP",
+                  "score": 1,
+                  "profileId": 23991,
+                  "resultId": 118,
+                  "country": "South Africa",
+                  "countryCode": "ZAF",
+                  "name": "Masizole Mnqasela",
+                  "gender": "male",
+                  "placeOfBirth": "Nqadu Village, Qolombane, Tsolo",
+                  "dateOfBirth": "1981-03-01",
+                  "dateOfDeath": null,
+                  "birthName": null,
+                  "nativeName": null,
+                  "imageURL": null,
+                  "professionalHistory": [
+                    "Chairperson at Rules Committee ",
+                    "Councilor in the City of Cape Town",
+                    "Constituency Chairperson",
+                    "General Secretary of ward 096 Development Forum ",
+                    "Councillor in the City of Cape Town",
+                    "Speaker of the Western Cape Provincial Parliament",
+                    "Member of the National Assembly of South Africa",
+                    "Member of the Western Cape Provincial Parliament",
+                    "Politician",
+                    "Member of the DA Federal Council",
+                    "Shadow Deputy Minister of Home Affairs",
+                    "General Secretary of the Ward 96 Development Forum in Makhaza",
+                    "Branch Chairperson of Ward 96 in the City of Cape Town"
+                  ],
+                  "memberOf": [
+                    "Democratic Alliance",
+                    "Khaylitsha Development Forum ",
+                    "Finance, Budget and Local Government Committees",
+                    " Standing Committee on Infrastructure",
+                    " Standing Committee on Human Settlement",
+                    " Standing Committee on Finance",
+                    " Petitions Committee",
+                    " Standing Committee on Economic Opportunities, Tourism and Agriculture",
+                    "Transport and Public Works",
+                    "Public Accounts Committee ",
+                    "Standing Committee on Local Government Oversight",
+                    "Budget Committee",
+                    "Rules Committee",
+                    "Parliament",
+                    "Standing Committee on Local Government",
+                    "Alliance of Citizens for Change",
+                    "Democratic Alliance"
+                  ],
+                  "employer": [],
+                  "education": [
+                    "University of South Africa "
+                  ],
+                  "awardsReceived": [],
+                  "notableWork": [],
+                  "convicted": [],
+                  "sourceInfoURL": [
+                    "https://www.opensanctions.org/entities/Q6783304/",
+                    "https://en.wikipedia.org/wiki/Masizole_Mnqasela",
+                    "https://www.pa.org.za/person/donald-grant/"
+                  ],
+                  "address": [],
+                  "affiliation": [],
+                  "aliases": [],
+                  "scoreBoosts": [],
+                  "pepSearchType": 4,
+                  "familyMembers": [],
+                  "social": [],
+                  "businessRelations": [
+                    {
+                      "relationType": "Associate",
+                      "name": "Helen Zille"
+                    }
+                  ],
+                  "businessPartnerships": [],
+                  "lobbying": [],
+                  "stakeholder": [],
+                  "contributions": [],
+                  "tags": [
+                    "PEP"
+                  ]
+                },
+                {
+                  "productId": "PEP",
+                  "score": 1,
+                  "profileId": 23661,
+                  "resultId": 119,
+                  "country": "South Africa",
+                  "countryCode": "ZAF",
+                  "name": "Geordin Hill-Lewis",
+                  "gender": "male",
+                  "placeOfBirth": "Plettenberg Bay",
+                  "dateOfBirth": "1986-12-31",
+                  "dateOfDeath": null,
+                  "birthName": null,
+                  "nativeName": null,
+                  "imageURL": "https://commons.wikimedia.org/wiki/Special:FilePath/Geordin%20Gwyn%20Hill-Lewis.jpg",
+                  "professionalHistory": [
+                    "mayor of Cape Town (2021)",
+                    "member of the National Assembly of South Africa (2019-2021)",
+                    "member of the National Assembly of South Africa (2014-2019)",
+                    "Chief of Staff ",
+                    "Shadow Minister of Finance",
+                    "Shadow Deputy Minister of Public Service and Administration",
+                    "Shadow Deputy Minister of Trade and Industry",
+                    "Shadow Deputy Minister of Public Service",
+                    "Cape Town City Council",
+                    "Deputy Leader of the Democratic Alliance in the Western Cape",
+                    "Politician",
+                    "Mayor of the City of Cape Town",
+                    "Chief of staff to the then Leader of the Democratic Alliance",
+                    "Premier of the Western Cape",
+                    "politician",
+                    "National Assembly, term/26"
+                  ],
+                  "memberOf": [
+                    "Portfolio Committee of Trade, Industry and Finance",
+                    "Portfolio Committee on Trade, Industry and Competition",
+                    "Alternate Member at Rules of the National Assembly",
+                    "Standing Committee on Finance",
+                    "Parliament",
+                    "the Cape Town City Council",
+                    "National Assembly",
+                    "Standing Committee on Finance (National Assembly",
+                    "Alternate Member at Rules of the National Assembly (National Assembly Committees",
+                    "Portfolio Committee On Trade, Industry and Competition",
+                    "Portfolio Committee on Trade and Industry",
+                    "Democratic Alliance",
+                    "DA"
+                  ],
+                  "employer": [],
+                  "education": [
+                    "Edgemead High School",
+                    "London University",
+                    "University of Cape Town"
+                  ],
+                  "awardsReceived": [],
+                  "notableWork": [
+                    "National Assembly"
+                  ],
+                  "convicted": [],
+                  "sourceInfoURL": [
+                    "https://www.opensanctions.org/entities/Q5535621/",
+                    "https://www.opensanctions.org/entities/za-mm-f79a2713861642abc27afc7a3adf8b2d8c18c8c7/",
+                    "https://www.climatecommission.org.za/team/geordin-hill-lewis",
+                    "https://en.wikipedia.org/wiki/Geordin_Hill-Lewis",
+                    "https://www.pa.org.za/person/geordin-gwyn-hill-lewis/",
+                    "https://af.wikipedia.org/wiki/Geordin_Hill-Lewis",
+                    "https://www.wikidata.org/entity/Q5535621"
+                  ],
+                  "address": [
+                    "Edgemead, Cape Town, South Africa"
+                  ],
+                  "affiliation": [],
+                  "aliases": [
+                    "Geordin Gwyn Hill-Lewis"
+                  ],
+                  "scoreBoosts": [],
+                  "pepSearchType": 4,
+                  "familyMembers": [
+                    {
+                      "relationType": "Spouse",
+                      "name": "Carla"
+                    }
+                  ],
+                  "social": [],
+                  "businessRelations": [
+                    {
+                      "relationType": "Associate",
+                      "name": "Helen Zille"
+                    }
+                  ],
+                  "businessPartnerships": [],
+                  "lobbying": [],
+                  "stakeholder": [],
+                  "contributions": [],
+                  "tags": [
+                    "PEP"
+                  ]
+                }
+              ]
+            },
+            "DRWatchlistVerification": {
+              "MatchCount": 119,
+              "ResponseSize": 634542,
+              "APIResponseTime": "2356.1544",
+              "TimeOfRequest": "2026-10-01T10:20:29.7486047Z",
+              "ServiceTime": 2793.6437,
+              "WatchlistDecision": "Review"
+            },
+            "DSWatchlistMonitor": null
+          },
+          "DSWatchlistVerificationStatus": {
+            "IsSuccess": true,
+            "Outcome": "Success"
+          }
+        }
+      ]
+    },
+    "ApplicationData_IO": {}
+  }
+}

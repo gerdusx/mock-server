@@ -1,0 +1,46 @@
+﻿{
+  "status": "success",
+  "result": {
+    "Consumer": {
+      "ReportInformation": {
+        "ReportID": "170",
+        "ReportName": "Consumer Address Report"
+      },
+      "ConsumerDetail": {
+        "DisplayText": "Consumer Detail",
+        "ConsumerID": "9002001",
+        "Initials": "LN",
+        "FirstName": "LERATO",
+        "SecondName": "NOMSA",
+        "ThirdName": null,
+        "Surname": "MABENA",
+        "MaidenName": null,
+        "IDNo": "8102020010083",
+        "PassportNo": null,
+        "BirthDate": "1981-02-02",
+        "Gender": "Female",
+        "TitleDesc": "Miss",
+        "MaritalStatusDesc": "Single",
+        "PrivacyStatus": "DO NOT CONTACT",
+        "ResidentialAddress": "45 RIVER LANE PINETOWN DURBAN 3610",
+        "PostalAddress": "45 RIVER LANE PINETOWN DURBAN 3610",
+        "HomeTelephoneNo": "0314441000",
+        "WorkTelephoneNo": "0314442000",
+        "CellularNo": "0824441000",
+        "EmailAddress": "lerato.mabena@example.test",
+        "EmployerDetail": "EXAMPLE TRADING",
+        "ReferenceNo": "C10000002-9002001",
+        "ExternalReference": null
+      },
+      "ConsumerAddressHistory": [],
+      "SubscriberInputDetails": {
+        "EnquiryDate": "2026-05-02T20:24:16.9901595+02:00",
+        "EnquiryType": "Consumer Address Information",
+        "SubscriberName": "Mock Subscriber Pty Ltd",
+        "SubscriberUserName": "mock-user",
+        "EnquiryInput": "8102020010083",
+        "EnquiryReason": null
+      }
+    }
+  }
+}

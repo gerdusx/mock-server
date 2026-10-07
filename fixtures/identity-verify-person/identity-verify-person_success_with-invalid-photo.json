@@ -1,0 +1,44 @@
+{
+  "GoldenSource": {
+    "OnNPR": true,
+    "OnHANIS": false,
+    "Photo": "this-is-not-valid-base64!!!",
+    "DateOfMarriage": "20151031",
+    "DateOfMarriageEpoch": 1446200600,
+    "MaritalStatus": "MARRIED",
+    "DateOfDeath": null,
+    "DateOfDeathEpoch": 0,
+    "IdBlocked": false,
+    "DeadIndicator": false,
+    "IdSeqNo": "1",
+    "IdIssueDate": "20011008",
+    "IdIssueDateEpoch": 1001299200,
+    "SmartCardIssued": false,
+    "Surname": "LEMM",
+    "Name": "FRANCOIS",
+    "IdNumber": "8001015009087",
+    "TransactionNo": "eb27e66f-730f-4c0a-9494-be27095077c6",
+    "DhaTransactionNo": "CB25120121541233N",
+    "BirthPlaceCountryCode": "ZAF",
+    "BirthPlaceCountry": "SOUTH AFRICA",
+    "ErrorCode": 0,
+    "Error": "",
+    "SAFPSResults": [
+      {
+        "FirstName": null,
+        "Surname": null,
+        "BirthDate": null,
+        "Filings": null
+      }
+    ]
+  },
+  "OfflineCacheResult": null,
+  "CacheResult": false,
+  "SCDerivedValues": null,
+  "CacheDate": null,
+  "RequestedBy": "Coming Soon",
+  "AuthorizedBy": "Coming Soon",
+  "CRef": "fvfjtjoitc",
+  "Status": "Success",
+  "Message": "SAFPS TXN: CB25120121233423N"
+}

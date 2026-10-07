@@ -1,0 +1,28 @@
+FROM node:20-alpine
+
+# Install pnpm
+RUN npm install -g pnpm
+
+WORKDIR /app
+
+# Pre-generated test keys (no openssl/apk needed; avoids TLS issues on corporate networks)
+COPY keys/ ./keys/
+
+# Copy package files
+COPY package.json pnpm-lock.yaml ./
+
+# Install ALL dependencies (including dev) for development
+RUN pnpm install --frozen-lockfile
+
+# Copy TypeScript and NestJS config files (needed for nest start --watch)
+COPY tsconfig.json tsconfig.build.json ./
+COPY nest-cli.json ./
+
+# Clean any existing dist folder (in case it was copied)
+RUN rm -rf dist || true
+
+# Expose port
+EXPOSE 5000
+
+# Start in dev mode (volumes will mount source)
+CMD ["sh", "-c", "rm -rf dist && pnpm start:dev"]

@@ -1,0 +1,10 @@
+{
+  "resultType": "CT",
+  "score": "650",
+  "reasons": [
+    {
+      "reasonCode": "TM31",
+      "reasonDescription": "TM31-High Utilisation on Revolving Accounts"
+    }
+  ]
+}

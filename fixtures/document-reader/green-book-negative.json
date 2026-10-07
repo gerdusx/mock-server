@@ -1,0 +1,20 @@
+{
+  "profileData": {
+    "Date of Birth": "1980-01-01"
+  },
+  "images": {
+    "Portrait": "",
+    "Document front side": ""
+  },
+  "authenticityDetails": {
+    "docType": 0,
+    "expiry": 1,
+    "imageQA": 0,
+    "mrz": 0,
+    "overallStatus": 0,
+    "pagesCount": 1,
+    "security": 0,
+    "text": 0,
+    "vds": 0
+  }
+}

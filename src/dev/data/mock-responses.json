@@ -1,0 +1,10 @@
+{
+  "identification": {
+    "verify_person_03": "success_with_photo",
+    "rsa_id_verify_03": "face_identical",
+    "document_reader_11": "green-book-positive",
+    "facial_comparison_14": "match",
+    "address_match_04": "address-match-has-history",
+    "anti_money_laundering_01": "no_results"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "hasFaceResult": true,
+  "isMatch": true,
+  "confidence": 0.8655,
+  "_raw": {
+    "response": {
+      "TrackingNumber": "f3da23cd-c696-4feb-843b-28bc874c49fc",
+      "CachedResult": false,
+      "CacheDate": null,
+      "FirstNameResult": "50",
+      "LastNameResult": "100",
+      "IdNumber": "0303240139087",
+      "FaceResult": {
+        "isIdentical": true,
+        "confidence": 0.8655
+      },
+      "LivenessResult": {
+        "LivenessResultScore": 1.8041916,
+        "LivenessResultProbability": 0.8586584,
+        "LivenessResultQuality": 0.9407552,
+        "LivenessResultClass": false,
+        "LivenessPassResult": true,
+        "LivenessMessage": "Liveness check successful"
+      },
+      "SAFPSResults": [
+        {
+          "FirstName": null,
+          "Surname": null,
+          "BirthDate": null,
+          "Filings": null
+        }
+      ],
+      "FirstName": "KYRA JAY",
+      "LastName": "FERNIE",
+      "SmartCardIssued": true,
+      "IDIssueDate": "20200113",
+      "IDSequenceNumber": "2",
+      "DeadIndicator": false,
+      "DateOfDeath": null,
+      "IDBlocked": false,
+      "MaritalStatus": "SINGLE",
+      "DateOfMarriage": null,
+      "OnHanis": true,
+      "OnNPR": true,
+      "BirthPlaceCountryCode": "ZAF",
+      "BirthPlaceCountry": "SOUTH AFRICA",
+      "FacialImageAvailable": true,
+      "FacialImage": "stripped from response",
+      "SCDerivedValues": null,
+      "IsWalletCreated": false,
+      "CRef": "fxheceshad",
+      "Status": "Success",
+      "Message": "SAFPS TXN: CB25120421728495N"
+    },
+    "type": null,
+    "title": "Citizen Api Output",
+    "status": 200,
+    "detail": "Details of the output",
+    "instance": "/Citizen/RSAIDVerification"
+  }
+}

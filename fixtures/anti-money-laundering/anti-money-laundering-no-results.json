@@ -1,0 +1,37 @@
+{
+  "Status": "Success",
+  "ResponseInfo": {
+    "ApplicationId": 353726090,
+    "SolutionSetInstanceId": "5ebf5f3c-9f79-4d92-80ae-8cd1ce8d5279",
+    "CurrentQueue": "TSO_ServiceInput"
+  },
+  "Fields": {
+    "Applicants_IO": {
+      "Applicant": [
+        {
+          "Attributes": {
+            "DSWatchlistVerification": {
+              "NmResults": [],
+              "PepResults": [],
+              "WlsResults": []
+            },
+            "DRWatchlistVerification": {
+              "MatchCount": 0,
+              "ResponseSize": 667,
+              "APIResponseTime": "4999.8514",
+              "TimeOfRequest": "2026-05-03T16:38:06.5496202Z",
+              "ServiceTime": 6400.3565,
+              "WatchlistDecision": "Approve"
+            },
+            "DSWatchlistMonitor": null
+          },
+          "DSWatchlistVerificationStatus": {
+            "IsSuccess": true,
+            "Outcome": "Success"
+          }
+        }
+      ]
+    },
+    "ApplicationData_IO": {}
+  }
+}

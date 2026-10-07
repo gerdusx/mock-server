@@ -1,0 +1,89 @@
+﻿{
+  "status": "success",
+  "result": {
+    "Consumer": {
+      "ReportInformation": {
+        "ReportID": "170",
+        "ReportName": "Consumer Address Report"
+      },
+      "ConsumerDetail": {
+        "DisplayText": "Consumer Detail",
+        "ConsumerID": "9001001",
+        "Initials": "TM",
+        "FirstName": "THABO",
+        "SecondName": "MOSES",
+        "ThirdName": null,
+        "Surname": "NKOSI",
+        "MaidenName": null,
+        "IDNo": "8001015009087",
+        "PassportNo": null,
+        "BirthDate": "1980-01-01",
+        "Gender": "Male",
+        "TitleDesc": "Mister",
+        "MaritalStatusDesc": "Single",
+        "PrivacyStatus": "ACCEPTS CONTACTS",
+        "ResidentialAddress": "12 KINGSWAY ROAD BRAAMFONTEIN JOHANNESBURG 2001",
+        "PostalAddress": "PO BOX 1001 BRAAMFONTEIN JOHANNESBURG 2017",
+        "HomeTelephoneNo": "0115551234",
+        "WorkTelephoneNo": "0115559876",
+        "CellularNo": "0715551234",
+        "EmailAddress": "thabo.nkosi@example.test",
+        "EmployerDetail": "ACME SYSTEMS",
+        "ReferenceNo": "C10000001-9001001",
+        "ExternalReference": null
+      },
+      "ConsumerAddressHistory": [
+        {
+          "DisplayText": "Consumer Address History",
+          "ConsumerAddressID": "HIS-0001",
+          "AddressType": "Residential",
+          "AddressTypeInd": "R",
+          "Address1": "12 KINGSWAY ROAD",
+          "Address2": "BRAAMFONTEIN",
+          "Address3": "JOHANNESBURG",
+          "Address4": "GAUTENG",
+          "PostalCode": "2001",
+          "Address": "12 KINGSWAY ROAD BRAAMFONTEIN JOHANNESBURG 2001",
+          "LastUpdatedDate": "2026-01-15",
+          "FirstReportedDate": "2022-04-01"
+        },
+        {
+          "DisplayText": "Consumer Address History",
+          "ConsumerAddressID": "HIS-0002",
+          "AddressType": "Residential",
+          "AddressTypeInd": "R",
+          "Address1": "99 OAK STREET",
+          "Address2": "MELVILLE",
+          "Address3": "JOHANNESBURG",
+          "Address4": "GAUTENG",
+          "PostalCode": "2092",
+          "Address": "99 OAK STREET MELVILLE JOHANNESBURG 2092",
+          "LastUpdatedDate": "2024-10-20",
+          "FirstReportedDate": "2019-07-10"
+        },
+        {
+          "DisplayText": "Consumer Address History",
+          "ConsumerAddressID": "HIS-0003",
+          "AddressType": "Postal",
+          "AddressTypeInd": "P",
+          "Address1": "PO BOX 1001",
+          "Address2": "BRAAMFONTEIN",
+          "Address3": "JOHANNESBURG",
+          "Address4": "GAUTENG",
+          "PostalCode": "2017",
+          "Address": "PO BOX 1001 BRAAMFONTEIN JOHANNESBURG 2017",
+          "LastUpdatedDate": "2025-06-12",
+          "FirstReportedDate": "2021-02-18"
+        }
+      ],
+      "SubscriberInputDetails": {
+        "EnquiryDate": "2026-05-02T20:24:16.9901595+02:00",
+        "EnquiryType": "Consumer Address Information",
+        "SubscriberName": "Mock Subscriber Pty Ltd",
+        "SubscriberUserName": "mock-user",
+        "EnquiryInput": "8001015009087",
+        "EnquiryReason": null
+      }
+    }
+  }
+}
