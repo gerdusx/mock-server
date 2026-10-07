@@ -11,7 +11,7 @@ import { DevModule } from './dev/dev.module';
       envFilePath: '.env',
     }),
     TgpModule,
-    AuthModule,
+    ...(process.env.TGP_ONLY === 'true' ? [] : [AuthModule]),
     DevModule,
   ],
 })
